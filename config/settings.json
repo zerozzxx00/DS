@@ -1,0 +1,7 @@
+{
+    "api_key": "your_api_key_here",
+    "api_endpoint": "https://api.deepseek.com/v1/analyze",
+    "camera_width": 1280,
+    "camera_height": 720,
+    "auto_capture_interval": 10
+}
